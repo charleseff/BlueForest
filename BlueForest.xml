@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="BlueForest" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8080" />
     <option name="ANNOTATIONS_COLOR" value="8080ff" />
@@ -19,7 +21,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="273e5c" />
     <option name="SELECTED_INDENT_GUIDE" value="808080" />
     <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
-    <option name="SELECTION_BACKGROUND" value="375780" />
+    <option name="SELECTION_BACKGROUND" value="d93312" />
     <option name="WHITESPACES" value="333333" />
   </colors>
   <attributes>
@@ -1403,17 +1405,7 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
-    <option name="JSP_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-   <option name="JSP_ATTRIBUTE_NAME">
+    <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ffff66" />
         <option name="BACKGROUND" />
@@ -2545,7 +2537,7 @@
     </option>
     <option name="RUBY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="50f050" />
+        <option name="FOREGROUND" value="808080" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -2883,6 +2875,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="SCOPE_KEY_Changed Files">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="SCOPE_KEY_Copyright">
       <value>
         <option name="FOREGROUND" />
@@ -2894,6 +2896,16 @@
       </value>
     </option>
     <option name="SCOPE_KEY_Copyright MD files">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_Default">
       <value>
         <option name="FOREGROUND" />
         <option name="BACKGROUND" />
