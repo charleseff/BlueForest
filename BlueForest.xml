@@ -2667,7 +2667,7 @@
     </option>
     <option name="RUBY_IVAR">
       <value>
-        <option name="FOREGROUND" value="f7ff66" />
+        <option name="FOREGROUND" value="ebbb27" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -2749,7 +2749,7 @@
       <value>
         <option name="FOREGROUND" value="f7ff66" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
